@@ -234,5 +234,19 @@ textarea {
     }
     
     .banner .profile-pic{ width: 100%;}
+
+    .footer-column{
+        width: 100%;
+    }
+    .social-links{
+        display: flex;
+        justify-content: center;
+
+    }
+
+    .contact input[type="text"], .contact input[type="email"], textarea{
+        width: 80%;
+    }
+       
     
 }
